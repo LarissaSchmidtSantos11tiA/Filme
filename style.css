@@ -1,0 +1,66 @@
+body {
+    font-family: "Rubik", sans-serif;
+    background-color: 	#FFEBCD;
+}
+
+h1 {
+    color: #FFF5EE;
+}
+
+div {
+    max-width: 700px;
+    margin-inline: auto;
+    margin-block: 30px;
+    padding: 32px;
+    border-radius: 30px;
+}
+
+
+.Enrolados {
+
+    background-color: #D8BFD8;
+    border-radius: 30px;
+}
+
+h2 {
+    color: #FFF5EE;
+}
+
+p {
+    color: #FFF5EE;
+      
+}
+
+ul {
+    color: #FFF5EE;
+ }
+
+.Personagens {
+
+    background-color: #FFC0CB;
+}
+
+.Crítica {
+
+    background-color: #FA8072;
+}
+
+.button > a {
+    width: 100%;
+    padding: 13px;
+    background-color: #FFC0CB;
+    border-radius: 22px;
+    border: none;
+
+    font-size: 15px;
+    font-weight: 700;
+    text-transform: uppercase;
+    letter-spacing: 2px;
+    color: #fff;
+
+}
+.button > a:hover {
+    color: #fff;
+    background-color: #FFC0CB;
+    cursor: pointer;
+}    
